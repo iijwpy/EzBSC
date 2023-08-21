@@ -5,7 +5,7 @@
 > 📚 Please note that this module is tightly coupled with the Web3 module, which might undergo modifications in the future, rendering this module unusable.
 
 # EzBSC
-EzBSC is a user-friendly python module designed to streamline the swapping and gathering of information from tokens on the Binance Smart Chain.
+EzBSC is a user-friendly python module designed to streamline the swapping/sell/buy and gathering of information from tokens on the Binance Smart Chain.
 
 # Example of usage
 
