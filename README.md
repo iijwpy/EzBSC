@@ -86,8 +86,8 @@ To retrieve any token symbol by address (POOCOIN in the example), you can utiliz
 print(f"Token symbol: {token.symbol()}")
 ```
 
-### [TokenInfo] Retrieving token prince in BNB
-To retrieve any token prince in BNB by address (POOCOIN in the example), you can utilize the following code:
+### [TokenInfo] Retrieving token price in BNB
+To retrieve any token price in BNB by address (POOCOIN in the example), you can utilize the following code:
 > 💱 The code will return the price of 1 token in BNB
 
 ```python
